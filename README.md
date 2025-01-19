@@ -11,7 +11,7 @@ The repo includes a compiled version of the game. It is FinalProject/FinalProjec
 
 The art assets don't look very pleasing because I made them all myself.
 
-The sound effects were generatted with SFXR.
+The sound effects were generated with SFXR.
 
 # Screenshots
 ![Image of the main menu](readme-images/main-menu.PNG)
