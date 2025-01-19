@@ -9,6 +9,10 @@ The FinalProject folder is a NetBeans project, but the source code is in FinalPr
 
 The repo includes a compiled version of the game. It is FinalProject/FinalProject.jar. In order for the media assets to load, the PNG and WAV folders must be in the same directory as the JAR.
 
+The art assets don't look very pleasing because I made them all myself.
+
+The sound effects were generatted with SFXR.
+
 # Screenshots
 ![Image of the main menu](readme-images/main-menu.PNG)
 ![Image of general gameplay](readme-images/gameplay.PNG)
